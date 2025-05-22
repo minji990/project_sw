@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489002344527",
+    "project_id": "medicine-f570f",
+    "storage_bucket": "medicine-f570f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489002344527:android:03180699894fd16400ca3a",
+        "android_client_info": {
+          "package_name": "com.android.happ.medicine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn37dBTuR-sv9fn5ydCjmzKzY4v1EpWxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
